@@ -51,6 +51,21 @@ PyCharm	                Professional Python IDE <br>
 VS Code	                Lightweight code editor <br>
 Jupyter Notebook        Interactive EDA environment <br>
 </pre>
+### **Google Colab** <br>
+Google Colab is a cloud-based Python environment provided by Google.<br>
+#### **Advantages:** <br>
+•	No installation required <br>
+•	Free GPU/TPU access <br>
+•	Easy collaboration <br>
+•	Runs in browser <br>
+<img width="940" height="699" alt="image" src="https://github.com/user-attachments/assets/530e30ba-29df-4faf-8751-b58c3e5bfd71" /> <br>
+### **Steps to Use Google Colab:** <br>
+1.	Visit https://colab.research.google.com <br>
+2.	Sign in using Google account <br>
+3.	Create a new Python notebook <br>
+## **CONCLUSION** <br>
+Python provides a flexible and powerful programming environment. Jupyter Notebook and Google Colab simplify learning and exploratory data analysis by providing interactive execution and visualization support.<br>
+
 
 
 
